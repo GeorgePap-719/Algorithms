@@ -1,0 +1,4 @@
+-CumSum runtime test with: 
+     1.000 elements: 0.00100 secs
+     10.000 elements: 0.00000 secs
+     50.000 elements: 0.00100 secs
